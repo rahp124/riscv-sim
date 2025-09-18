@@ -1,6 +1,5 @@
-## RISC-V Instruction Sequence Generation with Reinforcement Learning
-
-## UCSC ACM
+## RISC-V Instruction Sequence Generation with Reinforcement Learning 
+UCSC ACM
 
 ---
 
